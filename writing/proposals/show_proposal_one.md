@@ -72,7 +72,7 @@ I wish they asked themselves this question. Is it really what you want or are yo
 This action would put the audience in the position of thinking deeply about whether it is what they want from them or what people want from them.
 ## 🦜 References
 
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9859357/
-- https://www.everydayhealth.com/neurology/importance-decision-making-process/
-- https://hbr.org/2020/09/dont-let-your-parents-disapproval-derail-your-dreams
+- Reference One: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9859357/
+- Reference two: https://www.everydayhealth.com/neurology/importance-decision-making-process/
+- Reference three: https://hbr.org/2020/09/dont-let-your-parents-disapproval-derail-your-dreams
 
