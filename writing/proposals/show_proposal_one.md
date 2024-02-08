@@ -22,8 +22,6 @@
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: You must retype the sentence here in order to digitally sign your pledge.
-
 
 
 **IMPORTANT:** If you do not type the required sentence then the course
@@ -32,23 +30,15 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-TODO: Provide a compelling sentence that summarizes and pitches your podcast
-episode.
+The communication with your feelings ans thoughts are aslo important when your taking a decision.
 
 ## 🔬 Show Details
-
-TODO: Provide all of the required details for your podcast episode.
-
-TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
-Topic]`.
 
 - **My parents decision! not me.**:
 - **Rosa Ruiz**:
 - **someone who went through that same experience**:
 
 ## 📝 Show Objectives
-
-TODO: Provide a list of of at least three objectives for the podcast episode.
 
 - **Show the audience that people's opinions should not be followed all the time.**:
   
@@ -57,12 +47,6 @@ TODO: Provide a list of of at least three objectives for the podcast episode.
 - **show the audience that the comfort of feeling good about their decision is important.**:
 
 ## 📚 Sample Questions
-
-TODO: Provide a list of of at least three sample questions that the host will
-ask the guest.
-
-TODO: Provide a justification for why asking this question will achieve one of
-the stated objectives for the podcast episode.
 
 - **When you realized that you were following your parents' dreams**:
   
@@ -78,27 +62,15 @@ the stated objectives for the podcast episode.
 
 ## 🎉 Show Description
 
-TODO: Write at least three to five paragraphs that describe the content of the
-episode, ensuring that the description is both engaging and informative.
-
 The content of this episode will show you that it is important to think twice if this career is really for you. It will show you that opinions are important but that they are not meant to be followed if you don't feel good about them. Likewise, it will show you that you are not the only one who has gone through this situation and that there are people who have already experienced it and feel the pressure of disappointing someone important or making that decision because it is what people expect from you.
 
 
 ## 📢 Call to Action
 
-TODO: After a person listens to this episode what do you want them to do?
 I wish they asked themselves this question. Is it really what you want or are you doing it because that's what people expect of you?
 
-TODO: Write at least two sentences that explain the call to action for this episode.
 This action would put the audience in the position of thinking deeply about whether it is what they want from them or what people want from them.
 ## 🦜 References
-
-TODO: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal.
-
-TODO: Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
-
 
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9859357/
 - https://www.everydayhealth.com/neurology/importance-decision-making-process/
