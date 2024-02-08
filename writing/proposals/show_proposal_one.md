@@ -18,7 +18,7 @@
 
 <!---toc end-->
 
-## Rosa
+## Rosa Ruiz**
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
@@ -30,35 +30,35 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-The communication with your feelings ans thoughts are aslo important when your taking a decision.
+A show demostraring that having communication with your feelings and thoughts are aslo important when your taking a decision.
 
 ## 🔬 Show Details
 
-- **My parents decision! not me.**:
-- **Rosa Ruiz**:
-- **someone who went through that same experience**:
+- **Title:** My parents decision! not me.
+- **Houst:** Rosa Ruiz.
+- **Guest:** someone who went through that same experience.
 
 ## 📝 Show Objectives
 
-- **Show the audience that people's opinions should not be followed all the time.**:
+- **Objective One:** Show the audience that people's opinions should not be followed all the time.
   
-- **Show the audience that not having an answer is because in reality you did not choose that career, other people did it for you**:
+- **Objective One:** Show the audience that not having an answer is because in reality you did not choose that career, other people did it for you.
   
-- **show the audience that the comfort of feeling good about their decision is important.**:
+- **Objective Three:** show the audience that the comfort of feeling good about their decision is important.
 
 ## 📚 Sample Questions
 
-- **When you realized that you were following your parents' dreams**:
+- **Question one:** When you realized that you were following your parents' dreams?
   
-- **What was your response when people asked you why you chose that career?**:
+- **Question Two:** What was your response when people asked you why you chose that career?
   
-- **How did you feel when you changed careers to be following what you really wanted?**:
+- **Question Three:** How did you feel when you changed careers to be following what you really wanted?
 
-- **Question 1 will show me objective 1 because realizing that your entire choice was base off on other people opinion it's wrong if is not what you really want for your life**:
+- **Justification for Question One:** Question 1 will show me objective 1 because realizing that your entire choice was base off on other people opinion it's wrong if is not what you really want for your life.
   
-- **Question 2 will show  my objective 2 because it is truth sometimes people say i don't know for their answer and it is because other people like they parents been saying to then I think your are good at this even though is just a opinion we end up doing what they say**:
+- **Justification for Question Two:** Question 2 will show  my objective 2 because it is truth sometimes people say i don't know for their answer and it is because other people like they parents been saying to then I think your are good at this even though is just a opinion we end up doing what they say.
   
-- **Question 3 will show my objective 3 because knowing if this career make you feel good is important**:
+- ****Justification for Question Three:** Question 3 will show my objective 3 because knowing if this career make you feel good is important.
 
 ## 🎉 Show Description
 
@@ -67,12 +67,11 @@ The content of this episode will show you that it is important to think twice if
 
 ## 📢 Call to Action
 
-I wish they asked themselves this question. Is it really what you want or are you doing it because that's what people expect of you?
+**Call to Action:** I wish they asked themselves this question. Is it really what you want or are you doing it because that's what people expect of you?. This action would put the audience in the position of thinking deeply about whether it is what they want from them or what people want from them.
 
-This action would put the audience in the position of thinking deeply about whether it is what they want from them or what people want from them.
 ## 🦜 References
 
-- Reference One: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9859357/
-- Reference two: https://www.everydayhealth.com/neurology/importance-decision-making-process/
-- Reference three: https://hbr.org/2020/09/dont-let-your-parents-disapproval-derail-your-dreams
+**Reference One:** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9859357/
+**Reference two:** https://www.everydayhealth.com/neurology/importance-decision-making-process/
+**Reference three:** https://hbr.org/2020/09/dont-let-your-parents-disapproval-derail-your-dreams
 
