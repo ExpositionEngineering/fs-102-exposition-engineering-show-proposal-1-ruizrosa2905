@@ -18,7 +18,7 @@
 
 <!---toc end-->
 
-## Rosa Ruiz
+ Rosa Ruiz
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
