@@ -72,5 +72,5 @@ The content of this episode will show you that it is important to think twice if
 ## 🦜 References
 
 - **Reference One:** [National of library medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9859357/)
-- **Reference two:** https://www.everydayhealth.com/neurology/importance-decision-making-process/
-- **Reference three:** https://hbr.org/2020/09/dont-let-your-parents-disapproval-derail-your-dreams
+- **Reference two:** [Everydayhealth](https://www.everydayhealth.com/neurology/importance-decision-making-process/)
+- **Reference three:** [Let you parets disapproval](https://hbr.org/2020/09/dont-let-your-parents-disapproval-derail-your-dreams)
