@@ -34,9 +34,9 @@ A show demostraring that having communication with your feelings and thoughts ar
 
 ## 🔬 Show Details
 
-- "**Title**:" My parents decision! not me.
-- "**Houst**:" Rosa Ruiz.
-- "**Guest**:" someone who went through that same experience.
+- **Title**: My parents decision! not me.
+- **Houst**: Rosa Ruiz.
+- **Guest**: someone who went through that same experience.
 
 ## 📝 Show Objectives
 
