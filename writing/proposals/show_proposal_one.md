@@ -30,41 +30,41 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-A show demostraring that having communication with your feelings and thoughts are aslo important when your taking a decision.
+A show highlighting the significance of effectively communicating one's thoughts and feelings while making decisions.
 
 ## 🔬 Show Details
 
-- **Title**: My parents decision! not me.
-- **Host**: Rosa Ruiz.
-- **Guest**: someone who went through that same experience.
+- **Title**: My Parents' Decision, Not Mine.
+- **Host**: Gregory M. Kapfhammer.
+- **Guest**: Rosa Ruiz.
 
 ## 📝 Show Objectives
 
-- **Objective One**: Show the audience that people's opinions should not be followed all the time.
-- **Objective One**: Show the audience that not having an answer is because in reality you did not choose that career, other people did it for you.
-- **Objective Three**: show the audience that the comfort of feeling good about their decision is important.
+- **Objective One**: Show the audience that following others' opinions without thinking is not always a good idea.
+- **Objective One**: Explain to the audience that the reason you don't have an answer is that you didn't actually choose that career; it was chosen for you by others.
+- **Objective Three**: Emphasize to the audience the importance of feeling confident and comfortable with your decisions.
 
 ## 📚 Sample Questions
 
-- **Question one**: When you realized that you were following your parents' dreams?
+- **Question one**: When did you realize that you were following your parents' dreams?
 
-- **Question Two**: What was your response when people asked you why you chose that career?
+- **Question Two**: What was your answer when people asked you why you chose that career?
 
-- **Question Three**: How did you feel when you changed careers to be following what you really wanted
+- **Question Three**: How did changing your plans for your career make you feel?
 
-- **Justification for Question One**: Question 1 will show me objective 1 because realizing that your entire choice was base off on other people opinion it's wrong if is not what you really want for your life.
+- **Justification for Question One**: Question 1 aligns with my objective of understanding the impact of external opinions on personal decisions. Realizing that your career path is influenced by others can be eye-opening, particularly when it's not what you truly desire for your life.
   
-- **Justification for Question Two**: Question 2 will show  my objective 2 because it is truth sometimes people say i don't know for their answer and it is because other people like they parents been saying to then I think your are good at this even though is just a opinion we end up doing what they say.
+- **Justification for Question Two**: Question 2 supports my objective to identify if your career choice was your own. Often, people don't have a clear answer when asked why they chose a particular career, indicating that it may have been shaped by external suggestions, such as parents' opinions, rather than personal preference.
 
-- **Justification for Question Three**: Question 3 will show my objective 3 because knowing if this career make you feel good is important.
+- **Justification for Question Three**: Question 3 helps achieve my objective of indicating your emotional response to changing career plans. It's crucial to understand whether the new career path feels more aligned with your own goals and provides a sense of fulfillment.
 
 ## 🎉 Show Description
 
-The content of this episode will show you that it is important to think twice if this career is really for you. It will show you that opinions are important but that they are not meant to be followed if you don't feel good about them. Likewise, it will show you that you are not the only one who has gone through this situation and that there are people who have already experienced it and feel the pressure of disappointing someone important or making that decision because it is what people expect from you.
+The content of this episode emphasizes the importance of carefully considering whether a certain career is truly right for you. It also highlights the fact that while opinions are valuable, it's not necessary to follow them if they don't align with your own feelings. Additionally, the episode shares that you're not alone in facing the pressure of disappointing someone important or making a decision that's expected of you. There are others who have gone through the same situation and can relate to what you're feeling.
 
 ## 📢 Call to Action
 
-**Call to Action**: I wish they asked themselves this question. Is it really what you want or are you doing it because that's what people expect of you?. This action would put the audience in the position of thinking deeply about whether it is what they want from them or what people want from them.
+**Call to Action**: I wish people would ask themselves this question: Is this really what you want, or are you only doing it because it's what others expect of you? By asking this, it would encourage individuals to deeply reflect on whether their actions align with their own desires or if they are merely conforming to societal expectations.
 
 ## 🦜 References
 
